@@ -1,13 +1,3 @@
-# Hi, I'm Ira!
-
-I'm a 3rd Year Computer Science student at The Pennsylvania State University with a passion for **C# programming** across a variety of fields — from game development to system design for real-world applications. Actively seeking software engineering internships to apply my C# skills and software design knowledge.
-
-- 💻 Skilled in C# with experience building games, tools, and software systems  
-- 🎮 Game development is a passion project, but an interesting way I challenge myself
-- 📚 Interested in software engineering internships where I can apply C# and general software design principles  
-
----
-
 ### My Projects  
 #### Software Engineering
 - **[Controller-to-Mouse](https://github.com/iracheck/pcremote-csharp )** — Custom input tool that integrates game controllers as computer input devices for personal, home theater, or accessibility purposes (in progress). Originally coded in Java, then ported to C# for better UI and WindowsInput support.
