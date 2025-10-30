@@ -3,7 +3,7 @@
 - **[Dynamic Squad AI Simulation](https://github.com/iracheck/GangWarSandbox)** (marketed as "GangWarSandbox") - A dynamic AI simulation allowing 100+ autonomous agents with minimal performance impact (<35 MB RAM, <2ms CPU time/tick) and a reactive AI. Uses C#, ScriptHookVDotNet, and LemonUI. *August 2025-Present*
 - **PCRemote** (In-Development) - Custom input tool that integrates game controllers as computer input devices for personal, home theater, or accessibility purposes. Originally coded in Java, then ported to C# for better UI and WindowsInput support. *February 2025-March 2025, August 2025-Present*
 #### School Projects
-- **[Networking Project (Chat App)](https://github.com/iracheck/chatapp-group4 )** - Custom input tool that integrates game controllers as computer input devices for personal, home theater, or accessibility purposes (in progress). Originally coded in Java, then ported to C# for better UI and WindowsInput support. *April 2025-May 2025*
+- **[Networking Project (Chat App)](https://github.com/iracheck/chatapp-group4 )** - *April 2025-May 2025*
 
 ---
 ### Languages and Tools  
