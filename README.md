@@ -2,7 +2,7 @@
 #### Software Engineering
 - **[PCRemote](https://github.com/iracheck/pcremote-csharp)** - A desktop utility for Windows 11 built in C#/.NET that enables precise mouse and keyboard input simulation using a game controller. Ideal for desktop use, non-native game integration, and accessibility. **February 2025-March 2025, August 2025-Present**
 
-- **[Dynamic Squad AI Simulation](https://github.com/iracheck/GangWarSandbox)** (marketed as "GangWarSandbox") - A dynamic AI simulation allowing 100+ autonomous agents with minimal performance impact (<35 MB RAM, <2ms CPU time/tick) and a reactive AI. Uses C#, ScriptHookVDotNet, and LemonUI. *August 2025-Present*
+- **[Dynamic Squad AI Simulation](https://github.com/iracheck/GangWarSandbox)** (marketed as "GangWarSandbox") - A dynamic AI simulation allowing 100+ autonomous agents with minimal performance impact (<35 MB RAM, <2ms CPU time/tick) and a reactive AI. Built in C#, uses ScriptHookV, ScriptHookVDotNet, and LemonUI. *August 2025-Present*
 #### School Projects
 - **[Networking Project (Chat App)](https://github.com/iracheck/chatapp-group4 )** - *April 2025-May 2025* Collaborated with a team of four other classmates.
 
