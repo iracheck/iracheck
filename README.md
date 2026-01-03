@@ -1,5 +1,7 @@
 ### About Me
-Hi, I'm Ira, and I enjoy building interesting projects to learn more about Software Engineering. See them below and feel free to make modifications yourself. I modify it so often that it doesn't matter!
+Hi, I'm Ira, and I enjoy building interesting projects to learn more about Software Engineering. See them below and feel free to make modifications yourself. Specifically with my AI Simulation, they all change so often as I try to teach myself new things.
+
+Currently working on reevamping the AI in my AI simulation using a proper state machine (rather than a fixed one)!
 
 ### My Projects  
 #### Software Engineering
