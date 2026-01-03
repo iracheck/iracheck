@@ -1,3 +1,6 @@
+### About Me
+Hi, I'm Ira, and I enjoy building interesting projects to learn more about Software Engineering. See them below and feel free to make modifications yourself. I modify it so often that it doesn't matter!
+
 ### My Projects  
 #### Software Engineering
 - **[PCRemote](https://github.com/iracheck/pcremote-csharp)** - A desktop utility for Windows 11 built in C#/.NET that enables precise mouse and keyboard input simulation using a game controller. Ideal for desktop use, non-native game integration, and accessibility. **March 2025, November 2025-Present**
