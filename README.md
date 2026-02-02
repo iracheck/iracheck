@@ -1,9 +1,9 @@
-### About Me
+## About Me
 Hi, I'm Ira, and I enjoy building interesting projects to learn more about Software Engineering. See them below and feel free to make modifications yourself. Specifically with my AI Simulation, they all change so often as I try to teach myself new things.
 
 **Currently working on**: revamping the AI in my AI simulation using a more dynamic State machine
 
-### My Projects  
+## My Projects  
 #### Software Engineering
 - **[PCRemote](https://github.com/iracheck/pcremote-csharp)** - A desktop utility for Windows 11 built in C#/.NET that enables precise mouse and keyboard input simulation using a game controller. Ideal for desktop use, non-native game integration, and accessibility. **March 2025**, but currently working on a V2 with GUI.
 #### Modding
