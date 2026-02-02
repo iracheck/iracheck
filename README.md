@@ -6,8 +6,8 @@ Hi, I'm Ira, and I enjoy building interesting projects to learn more about Softw
 ### My Projects  
 #### Software Engineering
 - **[PCRemote](https://github.com/iracheck/pcremote-csharp)** - A desktop utility for Windows 11 built in C#/.NET that enables precise mouse and keyboard input simulation using a game controller. Ideal for desktop use, non-native game integration, and accessibility. **March 2025**, but currently working on a V2 with GUI.
-
-- **[Dynamic Squad AI Simulation](https://github.com/iracheck/DynamicSimulationMod)** (marketed as "GangWarSandbox") - Developed an extensible combat simulation framework with abstract gamemode API, lifecycle hooks, custom faction/vehicle configs via .ini. *May 2025-August 2025*, *V1.1 released January 2026*
+#### Modding
+- **[Dynamic Squad AI Simulation](https://github.com/iracheck/DynamicSimulationMod)** (marketed as "GangWarSandbox") - Developed an extensible combat simulation framework with abstract gamemode API, lifecycle hooks, custom faction/vehicle configs via .ini. Over 200 downloads as of 1/26. *May 2025-August 2025*, *V1.1 released January 2026*
 #### School Projects
 - **[Networking Project (Chat App)](https://github.com/iracheck/chatapp-group4 )** - *April 2025-May 2025* Collaborated with a team of four other classmates to build a chat app with a C backend and Java frontend.
 
