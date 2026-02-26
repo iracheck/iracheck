@@ -4,6 +4,8 @@ Hi, I'm Ira, and I enjoy building interesting projects to learn more about Softw
 I am a Computer Science major at Penn State, minoring in Cybersecurity Computational Foundations.
 
 ## My Projects  
+#### Robotics
+- **[Checkers Robot](https://github.com/iracheck/checkers-bot)** - A physical robot that can play checkers against a human or LLM opponent using a Python "brain" and C-controlled robotic arm movement. Currently in progress. **Feb 2025-Present**
 #### Software Engineering
 - **[PCRemote](https://github.com/iracheck/pcremote-csharp)** - A desktop utility for Windows 11 built in C#/.NET that enables precise mouse and keyboard input simulation using a game controller. Ideal for desktop use, non-native game integration, and accessibility. **March 2025**, but currently working on a V2 with GUI.
 #### Modding
