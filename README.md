@@ -6,10 +6,10 @@ I am a Computer Science major at Penn State, minoring in Cybersecurity Computati
 ## My Projects  
 #### Embedded
 - **[Checkers Robot](https://github.com/iracheck/checkers-bot)** - A physical robot that can play checkers against a human or LLM opponent using a Python "brain" and C-controlled robotic arm movement. Currently in progress. **Feb 2025-Present**
-#### Full-Stack
-- **[PCRemote](https://github.com/iracheck/pcremote-csharp)** - A desktop utility for Windows 11 built in C#/.NET that enables precise mouse and keyboard input simulation using a game controller. Ideal for desktop use, non-native game integration, and accessibility. **March 2025**, but currently working on a V2 with GUI. __PROJECT IS CURRENTLY SHUTTERED. Baseline version works exactly as how I need it to, and I see no demand in completing it.__
 #### Modding
 - **[Dynamic Squad AI Simulation](https://github.com/iracheck/DynamicSimulationMod)** (marketed as "GangWarSandbox") - Developed an extensible combat simulation framework with abstract gamemode API, lifecycle hooks, custom faction/vehicle configs via .ini. Over 200 downloads as of 1/26. **June 2025-August 2025**, **January 2026**
+#### Full-Stack
+- **[PCRemote](https://github.com/iracheck/pcremote-csharp)** - A desktop utility for Windows 11 built in C#/.NET that enables precise mouse and keyboard input simulation using a game controller. Ideal for desktop use, non-native game integration, and accessibility. **March 2025**, but currently working on a V2 with GUI. __PROJECT IS CURRENTLY SHUTTERED. Baseline version works exactly as how I need it to, and I see no demand in completing it.__
 #### School Projects
 - **[Networking Project (Chat App)](https://github.com/iracheck/chatapp-group4 )** - Collaborated with a team of four other classmates to build a chat app with a C backend and Java frontend. I specifically worked on the C backend, ensuring it was stable and didnt use too many resources. **April 2025-May 2025**
 
