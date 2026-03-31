@@ -17,6 +17,7 @@ I'm a Computer Science major at **Penn State**, minoring in **Cybersecurity Comp
   Developed a high-performance, extensible combat simulation framework with modular game modes, lifecycle hooks, and custom faction/vehicle configs via `.ini`. Over **200 downloads** as of Jan 2026.  
   **Technologies:** C#/.NET, ScriptHookV, LemonUI  
   **Timeline:** V1.0: June 2025 – Aug 2025, V1.1: Jan 2026
+  **Status:** Completed; limited support/occasional updates
 
 ### Full-Stack / Accessibility
 - **[PCRemote](https://github.com/iracheck/pcremote-csharp)**  
