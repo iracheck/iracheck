@@ -7,7 +7,7 @@ I'm a Computer Science major at **Penn State**, minoring in **Cybersecurity Comp
 
 ### Embedded
 - **[Checkers Robot](https://github.com/iracheck/checkers-bot)**  
-  A physical robot capable of playing checkers against humans or AI. Combines a Python game engine with a C-controlled robotic arm. My role in the project was the programming side of the brain & robotic arm controls, while two mechanical engineers and an electrical engineer worked on other aspects of the project.
+  A physical robot capable of playing checkers against humans or AI. Combines a Python game engine with a C-controlled robotic arm. My role in the project was the programming side of the brain & robotic arm controls, while two mechanical engineers and an electrical engineer worked on other aspects of the project.<br>
   **Technologies:** Python, C, OpenCV, PySerial  
   **Timeline:** Feb 2026 – Present  
   **Status:** In Progress
