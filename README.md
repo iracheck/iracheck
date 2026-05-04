@@ -1,6 +1,8 @@
 # Hi, I'm Ira
 I'm a Computer Science major at **Penn State**, minoring in **Cybersecurity Computational Foundations**, passionate about building interesting software and hardware projects that push my learning forward. I love creating tools, simulations, and accessible software that solve real problems.
 
+### View my portfolio site [here](https://iracheck.github.io).
+
 ---
 
 ## My Projects
