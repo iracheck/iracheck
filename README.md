@@ -1,8 +1,6 @@
 # Hi, I'm Ira
 
-I'm a **Computer Science student at Penn State** pursuing a B.S. in Computer Science with a minor in **Cybersecurity Computational Foundations**.
-
-I like building things that are a little more interesting than another CRUD app — from **robots that play checkers** to **large-scale AI simulations** and software designed around accessibility.
+I'm a **Computer Science student at Penn State** pursuing a B.S. in Computer Science with a minor in Cybersecurity Computational Foundations.
 
 I'm particularly interested in **software engineering, embedded systems, robotics, simulation, and systems programming**.
 
